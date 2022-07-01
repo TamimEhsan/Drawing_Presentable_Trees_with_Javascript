@@ -35,8 +35,8 @@ let tree = buchheim(root);
 
 The console output generated when `dfs(tree)` is called is
 
-![](Assets\console.jpg)
+![](Assets/console.jpg)
 
 And this can be used to create a tree like this
 
-![](Assets\tree.jpg)
+![](Assets/tree.jpg)
